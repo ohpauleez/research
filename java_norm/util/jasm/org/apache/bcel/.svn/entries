@@ -1,0 +1,92 @@
+8
+
+dir
+5
+http://www.pauldee.org/svn/personal/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel
+http://www.pauldee.org/svn/personal
+
+
+
+2008-11-06T21:32:29.240420Z
+5
+pauldee
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0eb9d3e8-d738-0410-8686-ed443406ad0b
+
+ExceptionConstants.class
+file
+
+
+
+
+2010-06-01T15:13:38.000000Z
+0cfe9eea9a43d5c0ec130c16391b2b7e
+2008-11-06T21:32:29.240420Z
+5
+pauldee
+has-props
+
+Constants.class
+file
+
+
+
+
+2010-06-01T15:13:38.000000Z
+96249c3ae0eb376ea126d89046075af5
+2008-11-06T21:32:29.240420Z
+5
+pauldee
+has-props
+
+Repository.class
+file
+
+
+
+
+2010-06-01T15:13:38.000000Z
+620a57016e89370b05d282ce0cae3fa5
+2008-11-06T21:32:29.240420Z
+5
+pauldee
+has-props
+
+ExceptionConstants$1.class
+file
+
+
+
+
+2010-06-01T15:13:38.000000Z
+1fc1bc64f148996f3736e0badfda691b
+2008-11-06T21:32:29.240420Z
+5
+pauldee
+has-props
+
+classfile
+dir
+
+verifier
+dir
+
+generic
+dir
+
+util
+dir
+

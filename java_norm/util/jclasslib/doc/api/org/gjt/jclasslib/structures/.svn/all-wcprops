@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures
+END
+MethodInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/MethodInfo.html
+END
+ClassMember.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/ClassMember.html
+END
+CPInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/CPInfo.html
+END
+AccessFlags.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/AccessFlags.html
+END
+AttributeInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/AttributeInfo.html
+END
+FieldInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/FieldInfo.html
+END
+ConstantPoolUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/ConstantPoolUtil.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/package-frame.html
+END
+InvalidByteCodeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/InvalidByteCodeException.html
+END
+AbstractStructure.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/AbstractStructure.html
+END
+ClassFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/ClassFile.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/package-summary.html
+END
+AbstractStructureWithAttributes.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/AbstractStructureWithAttributes.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/structures/package-tree.html
+END

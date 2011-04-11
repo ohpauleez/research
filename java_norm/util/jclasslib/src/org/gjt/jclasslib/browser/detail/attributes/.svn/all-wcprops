@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes
+END
+ConstantValueAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/ConstantValueAttributeDetailPane.java
+END
+InnerClassesAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/InnerClassesAttributeDetailPane.java
+END
+AbstractAttributeListDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/AbstractAttributeListDetailPane.java
+END
+SourceFileAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/SourceFileAttributeDetailPane.java
+END
+RuntimeAnnotationsAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/RuntimeAnnotationsAttributeDetailPane.java
+END
+SignatureAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/SignatureAttributeDetailPane.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/package.html
+END
+AbstractAttributeTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/AbstractAttributeTableModel.java
+END
+LineNumberTableAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/LineNumberTableAttributeDetailPane.java
+END
+LocalVariableTableAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/LocalVariableTableAttributeDetailPane.java
+END
+LinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/LinkRenderer.java
+END
+LocalVariableCommonAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/LocalVariableCommonAttributeDetailPane.java
+END
+CodeAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/CodeAttributeDetailPane.java
+END
+LocalVariableTypeTableAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/LocalVariableTypeTableAttributeDetailPane.java
+END
+GenericAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/GenericAttributeDetailPane.java
+END
+AnnotationDefaultAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/AnnotationDefaultAttributeDetailPane.java
+END
+ExceptionsAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/ExceptionsAttributeDetailPane.java
+END
+EnclosingMethodAttributeDetailPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/browser/detail/attributes/EnclosingMethodAttributeDetailPane.java
+END

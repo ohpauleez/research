@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics
+END
+LocalVariableInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/LocalVariableInfo.class
+END
+LocalVariablesInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/LocalVariablesInfo.class
+END
+Pass1Verifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/Pass1Verifier.class
+END
+Pass2Verifier$FAMRAV_Visitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/Pass2Verifier$FAMRAV_Visitor.class
+END
+Pass2Verifier$InnerClassDetector.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/Pass2Verifier$InnerClassDetector.class
+END
+Pass2Verifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/Pass2Verifier.class
+END
+DOUBLE_Upper.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/DOUBLE_Upper.class
+END
+IntList.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/IntList.class
+END
+Pass3aVerifier$InstOperandConstraintVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/Pass3aVerifier$InstOperandConstraintVisitor.class
+END
+Pass3aVerifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/Pass3aVerifier.class
+END
+Pass2Verifier$CPESSC_Visitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/Pass2Verifier$CPESSC_Visitor.class
+END
+Pass2Verifier$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/Pass2Verifier$1.class
+END
+StringRepresentation.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/StringRepresentation.class
+END
+LONG_Upper.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jasm/org/apache/bcel/verifier/statics/LONG_Upper.class
+END

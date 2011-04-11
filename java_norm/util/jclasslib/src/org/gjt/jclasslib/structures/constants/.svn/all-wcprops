@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants
+END
+ConstantDoubleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantDoubleInfo.java
+END
+ConstantMethodrefInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantMethodrefInfo.java
+END
+ConstantFieldrefInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantFieldrefInfo.java
+END
+ConstantReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantReference.java
+END
+ConstantUtf8Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantUtf8Info.java
+END
+ConstantNumeric.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantNumeric.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/package.html
+END
+ConstantIntegerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantIntegerInfo.java
+END
+ConstantInterfaceMethodrefInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantInterfaceMethodrefInfo.java
+END
+ConstantLongInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantLongInfo.java
+END
+ConstantLargeNumeric.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantLargeNumeric.java
+END
+ConstantNameAndTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantNameAndTypeInfo.java
+END
+ConstantFloatInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantFloatInfo.java
+END
+ConstantClassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantClassInfo.java
+END
+ConstantStringInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/src/org/gjt/jclasslib/structures/constants/ConstantStringInfo.java
+END

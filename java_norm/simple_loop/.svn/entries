@@ -1,0 +1,66 @@
+8
+
+dir
+5
+http://www.pauldee.org/svn/personal/code/archive/old_research_work/java_norm/simple_loop
+http://www.pauldee.org/svn/personal
+
+
+
+2008-11-06T21:32:29.240420Z
+5
+pauldee
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0eb9d3e8-d738-0410-8686-ed443406ad0b
+
+build
+dir
+
+xcode
+dir
+
+src
+dir
+
+util
+dir
+
+Makefile
+file
+
+
+
+
+2010-06-01T15:07:06.000000Z
+7d16691ca9795b1ed49d6aefdbc21a75
+2008-11-06T21:32:29.240420Z
+5
+pauldee
+has-props
+
+README
+file
+
+
+
+
+2010-06-01T15:07:08.000000Z
+6bcccd8d03d8472c95fffdcd531d1b6c
+2008-11-06T21:32:29.240420Z
+5
+pauldee
+has-props
+

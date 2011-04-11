@@ -1,0 +1,11 @@
+
+include $(GNUSTEP_MAKEFILES)/common.make
+
+APP_NAME = lcs
+lcs_HEADERS = LCS.h
+lcs_OBJC_FILES = main.m LCS.m
+lcs_RESOURCES_FILES = 
+
+include $(GNUSTEP_MAKEFILES)/application.make
+
+

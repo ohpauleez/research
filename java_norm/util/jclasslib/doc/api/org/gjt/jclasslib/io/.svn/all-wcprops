@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io
+END
+CountedInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/CountedInputStream.html
+END
+ByteCodeInput.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/ByteCodeInput.html
+END
+CountedOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/CountedOutputStream.html
+END
+ByteCodeOutput.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/ByteCodeOutput.html
+END
+ByteCodeReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/ByteCodeReader.html
+END
+Log.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/Log.html
+END
+ClassFileWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/ClassFileWriter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/package-summary.html
+END
+ClassFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/ClassFileReader.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/package-tree.html
+END
+ByteCodeInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/ByteCodeInputStream.html
+END
+ByteCodeOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/ByteCodeOutputStream.html
+END
+ByteCodeWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/personal/!svn/ver/5/code/archive/old_research_work/java_norm/util/jclasslib/doc/api/org/gjt/jclasslib/io/ByteCodeWriter.html
+END
