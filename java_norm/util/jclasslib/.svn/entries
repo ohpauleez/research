@@ -1,70 +1,0 @@
-8
-
-dir
-5
-http://www.pauldee.org/svn/personal/code/archive/old_research_work/java_norm/util/jclasslib
-http://www.pauldee.org/svn/personal
-
-
-
-2008-11-06T21:32:29.240420Z
-5
-pauldee
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-0eb9d3e8-d738-0410-8686-ed443406ad0b
-
-service
-dir
-
-.install4j
-dir
-
-license
-file
-
-
-
-
-2010-06-01T15:10:08.000000Z
-440c343d3b9cee2c422cebac383fca8e
-2008-11-06T21:32:29.240420Z
-5
-pauldee
-
-doc
-dir
-
-src
-dir
-
-bin
-dir
-
-lib-compile
-dir
-
-build.xml
-file
-
-
-
-
-2010-06-01T15:10:08.000000Z
-11d6150433596725aab2f0b5f29aafa1
-2008-11-06T21:32:29.240420Z
-5
-pauldee
-

@@ -1,65 +1,0 @@
-8
-
-dir
-5
-http://www.pauldee.org/svn/personal/code/archive/old_research_work/java_norm/simple_loop/util/cocoa
-http://www.pauldee.org/svn/personal
-
-
-
-2008-11-06T21:32:29.240420Z
-5
-pauldee
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-0eb9d3e8-d738-0410-8686-ed443406ad0b
-
-build
-dir
-
-test
-dir
-
-src
-dir
-
-GNUmakefile.lcs
-file
-
-
-
-
-2010-06-01T15:06:50.000000Z
-a88ee55f30235e5ad26ddf21f7c76fd2
-2008-11-06T21:32:29.240420Z
-5
-pauldee
-
-bin
-dir
-
-Makefile
-file
-
-
-
-
-2010-06-01T15:06:50.000000Z
-ff43eab550ab5432107d5b9c1dbb1bba
-2008-11-06T21:32:29.240420Z
-5
-pauldee
-has-props
-
